@@ -13,7 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.zoop.gg
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/logo.png
+  logoUrl: https://raw.githubusercontent.com/wearezoop/status/master/assets/logo.png
   name: Zoop Status
   introTitle: "**Zoop** Status."
   introMessage: Hopefully you will only ever be able to glance at our perfect record here, if not please write to marvin@wearezoop.com and let him know about the special campaign you are waiting to support right now.
