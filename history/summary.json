@@ -4,17 +4,19 @@
     "url": "https://zoop.gg",
     "icon": "https://favicons.githubusercontent.com/zoop.gg",
     "slug": "zoop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 425,
-    "timeDay": 312,
-    "timeWeek": 327,
-    "timeMonth": 392,
-    "timeYear": 425,
-    "dailyMinutesDown": {}
+    "time": 423,
+    "timeDay": 241,
+    "timeWeek": 307,
+    "timeMonth": 385,
+    "timeYear": 423,
+    "dailyMinutesDown": {
+      "2021-09-20": 0
+    }
   }
 ]
