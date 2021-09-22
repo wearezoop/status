@@ -6,14 +6,14 @@
     "slug": "zoop",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "90.01%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.57%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.93%",
     "time": 421,
-    "timeDay": 250,
-    "timeWeek": 298,
-    "timeMonth": 377,
+    "timeDay": 394,
+    "timeWeek": 317,
+    "timeMonth": 368,
     "timeYear": 421,
     "dailyMinutesDown": {
       "2021-09-20": 144
