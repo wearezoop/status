@@ -2,7 +2,7 @@
   {
     "name": "Zoop",
     "url": "https://zoop.gg",
-    "icon": "https://favicons.githubusercontent.com/zoop.gg",
+    "icon": "https://icons.duckduckgo.com/ip3/zoop.gg.ico",
     "slug": "zoop",
     "status": "up",
     "uptime": "99.95%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 559,
-    "timeDay": 560,
-    "timeWeek": 770,
-    "timeMonth": 623,
+    "timeDay": 373,
+    "timeWeek": 492,
+    "timeMonth": 620,
     "timeYear": 606,
     "dailyMinutesDown": {
       "2022-08-12": 77,
@@ -24,7 +24,7 @@
   {
     "name": "Zoop Drop",
     "url": "https://drop.zoop.gg",
-    "icon": "https://favicons.githubusercontent.com/drop.zoop.gg",
+    "icon": "https://icons.duckduckgo.com/ip3/drop.zoop.gg.ico",
     "slug": "zoop-drop",
     "status": "up",
     "uptime": "100.00%",
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 369,
-    "timeDay": 312,
-    "timeWeek": 352,
-    "timeMonth": 354,
-    "timeYear": 369,
+    "time": 368,
+    "timeDay": 157,
+    "timeWeek": 304,
+    "timeMonth": 349,
+    "timeYear": 368,
     "dailyMinutesDown": {}
   }
 ]
