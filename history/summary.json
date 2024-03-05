@@ -10,40 +10,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 544,
-    "timeDay": 608,
-    "timeWeek": 630,
-    "timeMonth": 539,
+    "time": 545,
+    "timeDay": 584,
+    "timeWeek": 621,
+    "timeMonth": 540,
     "timeYear": 570,
     "dailyMinutesDown": {
       "2024-01-28": 155,
       "2024-01-27": 106,
       "2023-06-13": 89
-    }
-  },
-  {
-    "name": "Zoop Drop",
-    "url": "https://drop.zoop.gg",
-    "icon": "https://icons.duckduckgo.com/ip3/drop.zoop.gg.ico",
-    "slug": "zoop-drop",
-    "status": "down",
-    "uptime": "99.59%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "63.66%",
-    "uptimeMonth": "91.64%",
-    "uptimeYear": "99.26%",
-    "time": 307,
-    "timeDay": 0,
-    "timeWeek": 303,
-    "timeMonth": 326,
-    "timeYear": 309,
-    "dailyMinutesDown": {
-      "2024-03-05": 6,
-      "2024-03-04": 1440,
-      "2024-03-03": 1440,
-      "2024-03-02": 778,
-      "2024-01-28": 155,
-      "2023-06-13": 97
     }
   }
 ]
