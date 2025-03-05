@@ -4,7 +4,7 @@
     "url": "https://zoop.gg",
     "icon": "https://icons.duckduckgo.com/ip3/zoop.gg.ico",
     "slug": "zoop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 889,
     "timeYear": 755,
     "dailyMinutesDown": {
+      "2025-03-05": 0,
       "2024-08-22": 17,
       "2024-08-03": 384,
       "2024-08-02": 18
