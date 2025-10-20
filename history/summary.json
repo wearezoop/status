@@ -6,17 +6,17 @@
     "slug": "zoop",
     "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "97.17%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.99%",
-    "time": 795,
+    "uptimeDay": "94.93%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.98%",
+    "time": 798,
     "timeDay": 483,
     "timeWeek": 642,
     "timeMonth": 750,
-    "timeYear": 807,
+    "timeYear": 810,
     "dailyMinutesDown": {
-      "2025-10-20": 41,
+      "2025-10-20": 73,
       "2025-03-05": 29
     }
   }
